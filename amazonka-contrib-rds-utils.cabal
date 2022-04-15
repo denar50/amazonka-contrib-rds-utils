@@ -33,7 +33,7 @@ library
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
     build-depends:      base          >= 4.14.1.0
-                    ,   amazonka      >= 1.6.1
+                    ,   amazonka      
                     ,   amazonka-core
                     ,   amazonka-rds
                     ,   bytestring    >= 0.9
